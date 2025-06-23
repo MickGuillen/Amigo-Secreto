@@ -51,4 +51,4 @@ Recuerda que cada vez que presiones el botón **Sortear**, se elige un nuevo ami
 
 ## Autor
 
-Desarrollado por [Alan Guillen](https://github.com/MickGuillen).
+Desarrollado por [Alan Guillen](https://github.com/MickGuillen)
